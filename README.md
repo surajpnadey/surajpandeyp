@@ -1,11 +1,11 @@
-# 👋 Hey there, I'm Suraj Pandey!
+#  Hey there, I'm Suraj Pandey!
 
-🎓 Currently pursuing **Advance Diploma in Information Security V3** from Thane  
+ 
 🛡️ Passionate Cybersecurity Learner | 🧠 Problem Solver | 💻 Web Developer
 
 ---
 
-## 🧠 My Cybersecurity Journey
+##  My Cybersecurity Journey
 
 I'm enrolled in a professional cybersecurity diploma, where I’m actively learning and applying:
 
@@ -13,7 +13,7 @@ I'm enrolled in a professional cybersecurity diploma, where I’m actively learn
 - 🛠️ Certified Web Penetration Tester V3 **
 - 🔐 Network Security **
 - 📡 Certified Network Penetration Tester V3 **
-- 💥 Exploit Writing **
+- 
 
 💡 I love exploring **real-world CVEs**, solving **Capture The Flag (CTF)** challenges, and testing web apps for vulnerabilities using tools like:
 - Burp Suite
